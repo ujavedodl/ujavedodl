@@ -10,7 +10,7 @@
   Open-source projects, especially those focused on web development, cloud platforms, or machine learning applications.  
 
 - 📫 **How to reach me:**  
-  You can connect with me via [LinkedIn](https://www.linkedin.com/) or email me at `ujavedodl@gmail.com`.  
+  You can connect with me via [LinkedIn](https://www.linkedin.com/) or email me at `usmanjaved4076@gmail.com`.  
 
 - 😄 **Pronouns:**  
   He/Him  
